@@ -1,0 +1,15 @@
+.kg-item {
+  background-color: khaki;
+  padding: 12px;
+  border-radius: 2px solid black;
+  border: 5px;
+
+}
+.kg-span {
+  font-weight: 500;
+  color: orangered;
+  
+}
+.button {
+  float: right;
+}
